@@ -214,14 +214,29 @@ Tools
 Miscellaneous
 =================
 
-#### Slides
+### Slides
+* [OWASP Presentation of Social Engineering](https://www.owasp.org/images/5/54/Presentation_Social_Engineering.pdf) - OWASP
+* [Weaponizing data science for social engineering: Automated E2E spear phishing on Twitter](https://media.defcon.org/DEF%20CON%2024/DEF%20CON%2024%20presentations/DEFCON-24-Seymour-Tully-Weaponizing-Data-Science-For-Social-Engineering-WP.pdf) - Defcon 23
+* [Using Social Engineering Tactics For Big Data Espionage](https://www.rsaconference.com/writable/presentations/file_upload/das-301_williams_rader.pdf) - RSA Conference Europe 2012
 
-#### Videos
+### Videos
 
-#### Articles
+  * #### Defcon
+    * [Chris Hadnagy - 7 Jedi Mind Tricks Influence Your Target without a Word](https://media.defcon.org/DEF%20CON%2024/DEF%20CON%2024%20villages/DEF%20CON%2024%20Social%20Engineer%20Village%20-%20Chris%20Hadnagy%20-%207%20Jedi%20Mind%20Tricks%20Influence%20Your%20Target%20without%20a%20Word.mp4)
+    * [Robert Anderson - US Interrogation Techniques and Social Engineering.mp4](https://media.defcon.org/DEF%20CON%2024/DEF%20CON%2024%20villages/DEF%20CON%2024%20Social%20Engineer%20Village%20-%20Robert%20Anderson%20-%20US%20Interrogation%20Techniques%20and%20Social%20Engineering.mp4)
+    * [Ian Harris - Understanding Social Engineering Attacks with Natural Language Processing](https://media.defcon.org/DEF%20CON%2023/DEF%20CON%2023%20villages%20video/DEF%20CON%2023%20Social%20Engineering%20Village%20-%20Ian%20Harris%20-%20Understanding%20Social%20Engineering%20Attacks%20with%20Natural%20Language%20Processing%20-%20Video.mp4)
 
-#### Movies
 
+* [This is how hackers hack you using simple social engineering](https://www.youtube.com/watch?v=lc7scxvKQOo)
+
+
+### Articles
+* [The Limits of Social Engineering](https://www.technologyreview.com/s/526561/the-limits-of-social-engineering/) - MIT, Technology Review
+* [The 7 Best Social Engineering Attacks Ever](http://www.darkreading.com/the-7-best-social-engineering-attacks-ever/d/d-id/1319411) - DarkReading
+* [Social Engineering: Compromising Users with an Office Document](http://resources.infosecinstitute.com/social-engineering-compromising-users-using-office-document/) - Infosec Institute
+
+### Movies
+* [Tiger Team (TV series)](https://en.wikipedia.org/wiki/Tiger_Team_)
 
 Contribution
 ================
