@@ -211,7 +211,7 @@ Tools
 * [PhishingFrenzy](https://www.phishingfrenzy.com/) - Phishing Frenzy is an Open Source Ruby on Rails application that is leveraged by penetration testers to manage email phishing campaigns.
 * [Evilginx](https://github.com/kgretzky/evilginx) - MITM attack framework used for phishing credentials and session cookies from any Web service
 
-Miscellaneus
+Miscellaneous
 =================
 
 #### Slides
