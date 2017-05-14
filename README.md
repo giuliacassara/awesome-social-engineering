@@ -19,7 +19,7 @@ Table of Contents
 5. [OSINT](#osint)
 6. [Documentation](#documentation)
 7. [Tools](#tools)
-8. [Miscellaneus](#michellaneus)
+8. [Miscellaneus](#miscellaneous)
 9. [Contributing](#contributing)
 10. [License](#license)
 
