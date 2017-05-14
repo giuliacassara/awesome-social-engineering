@@ -3,10 +3,11 @@ Awesome Social Engineering
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome social engineering resources, inspired by the awesome-* trend on GitHub, especially Awesome Infosec.
+A curated list of awesome social engineering resources, inspired by the awesome-* trend on GitHub.
 
 Those resources and tools are intended only for cybersecurity professional, penetration testers and educational use in a controlled environment.
-Do not harm anyone! No humans were manipulated to make this list.
+
+No humans were manipulated to make this list.
 
 
 Table of Contents
