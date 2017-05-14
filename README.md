@@ -20,7 +20,7 @@ Table of Contents
 6. [Documentation](#documentation)
 7. [Tools](#tools)
 8. [Miscellaneus](#miscellaneous)
-9. [Contributing](#contributing)
+9. [Contribution](#contribution)
 10. [License](#license)
 
 
@@ -221,3 +221,18 @@ Miscellaneous
 #### Articles
 
 #### Movies
+
+
+Contribution
+================
+Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕). Please check the [Contributing Guidelines](CONTRIBUTING.md) for more details.
+
+
+License
+================
+
+### License
+
+[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
