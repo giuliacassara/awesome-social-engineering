@@ -12,7 +12,7 @@ Do not harm anyone! No humans were manipulated to make this list.
 Table of Contents
 =================
 
-1. [Massive Online Open Courses](#massive-online-open-courses)
+1. [Online Courses](#online-courses)
 2. [Capture the Flag](#capture-the-flag)
 3. [Psychology Resources](#psychology)
 4. [Social Engineering Books](#social-engineering-books)
@@ -24,7 +24,7 @@ Table of Contents
 10. [License](#license)
 
 
-Massive Online Open Courses
+Online Courses
 =================
 
 #### Social-Engineer.com - Social Engineering Training
@@ -74,13 +74,25 @@ This course will provide you tools for improving your everyday thinking, tips an
 - [University of Toronto - Introduction to Psychology](https://www.coursera.org/learn/introduction-psych)
 
 #### Psychology Books
+Most of these books covers the basics of psychology useful for a social engineer.
+
 - [How to Win Friends and Influence People - Dale Carnegie](https://www.amazon.co.uk/d/Books/How-Win-Friends-Influence-People-Dale-Carnegie/0091906814/ref=sr_1_1?ie=UTF8&qid=1494621059&sr=8-1&keywords=how+to+win+friends+and+influence+people)
+
 - [The 48 Laws of Power - Robert Greene](https://www.amazon.co.uk/d/Books/48-Laws-Power-Robert-Greene-Collection/1861972784/ref=sr_1_1?ie=UTF8&qid=1494621512&sr=8-1&keywords=the+48+laws+of+power)
+
 - [The Psychology Book](https://www.amazon.co.uk/d/Books/Psychology-Book-Nigel-Benson/1405391243/ref=sr_1_1?ie=UTF8&qid=1494621589&sr=8-1&keywords=psychology)
+
 - [The Power of Habit: Why We Do What We Do, and How to Change - Charles Duhigg](https://www.amazon.co.uk/Power-Habit-Why-What-Change/dp/1847946240/ref=sr_1_1?ie=UTF8&qid=1494621842&sr=8-1&keywords=the+power+of+habit)
+
 - [Influence: The Psychology of Persuasion Paperback – Robert B., PhD Cialdini](https://www.amazon.co.uk/d/cka/Influence-Psychology-Persuasion-Robert-B-PhD-Cialdini/006124189X/ref=sr_1_1?ie=UTF8&qid=1494621912&sr=8-1&keywords=influence)
+
 - [Emotions Revealed: Understanding Faces and Feelings - Prof Paul Ekman](https://www.amazon.co.uk/Emotions-Revealed-Understanding-Faces-Feelings/dp/0753817659/ref=sr_1_1?ie=UTF8&qid=1494622003&sr=8-1&keywords=paul+ekman)
+
 - [The Psychology of Interrogations and Confessions: A Handbook - Gisli H. Gudjonsson](https://www.amazon.co.uk/Psychology-Interrogations-Confessions-Handbook-Policing-x/dp/0470844612/ref=sr_1_1?s=books&ie=UTF8&qid=1494624501&sr=1-1&keywords=psychology+of+interrogation)
+
+- [Mindfucking: A Critique of Mental Manipulation - Colin McGinn](https://www.goodreads.com/book/show/4049997-mindfucking)
+
+- [What Every Body is Saying: An Ex-FBI Agent's Guide to Speed-Reading People -  Joe Navarro, Marvin Karlins](https://www.goodreads.com/book/show/1173576.What_Every_Body_is_Saying)
 
 
 Social Engineering Books
@@ -90,23 +102,62 @@ Social Engineering Books
 The first book to reveal and dissect the technical aspect of many social engineering maneuvers
 From elicitation, pretexting, influence and manipulation all aspects of social engineering are picked apart, discussed and explained by using real world examples, personal experience and the science behind them to unraveled the mystery in social engineering.
 
-[Social Engineering: The Art of Human Hacking - Chris Hadnagy](https://www.amazon.co.uk/Social-Engineering-Art-Human-Hacking/dp/0470639539/ref=sr_1_1?ie=UTF8&qid=1494622911&sr=8-1&keywords=chris+hadnagy)
+- [Social Engineering: The Art of Human Hacking - Chris Hadnagy](https://www.amazon.co.uk/Social-Engineering-Art-Human-Hacking/dp/0470639539/ref=sr_1_1?ie=UTF8&qid=1494622911&sr=8-1&keywords=chris+hadnagy)
+
+
+#### Unmasking the Social Engineer: The Human Element of Security
+Learn to identify the social engineer by non-verbal behavior Unmasking the Social Engineer: The Human Element of Security focuses on combining the science of understanding non-verbal communications with the knowledge of how social engineers, scam artists and con men use these skills to build feelings of trust and rapport in their targets. The author helps readers understand how to identify and detect social engineers and scammers by analyzing their non-verbal behavior
+
+- [Unmasking the Social Engineer: The Human Element of Security - Christopher Hadnagy, Dr. Ekman Paul](https://www.amazon.com/Unmasking-Social-Engineer-Element-Security/dp/1118608577)
+
+
+#### Phishing Dark Waters: The Offensive and Defensive Sides of Malicious Emails
+Phishing Dark Waters addresses the growing and continuing scourge of phishing emails, and provides actionable defensive techniques and tools to help you steer clear of malicious emails. Phishing is analyzed from the viewpoint of human decision–making and the impact of deliberate influence and manipulation on the recipient. With expert guidance, this book provides insight into the financial, corporate espionage, nation state, and identity theft goals of the attackers, and teaches you how to spot a spoofed e–mail or cloned website.
+
+- [Phishing Dark Waters: The Offensive and Defensive Sides of Malicious Emails - Christopher Hadnagy, Michele Fincher, Robin Dreeke ](https://www.amazon.co.uk/Phishing-Dark-Waters-Offensive-Defensive-x/dp/1118958470/ref=sr_1_fkmr0_1?ie=UTF8&qid=1494622911&sr=8-1-fkmr0&keywords=chris+hadnagy)
+
+
+#### Social Engineering in IT Security: Tools, Tactics, and Techniques
+Conduct ethical social engineering tests to identify an organization's susceptibility to attack. Written by a global expert on the topic, Social Engineering in IT Security discusses the roots and rise of social engineering and presents a proven methodology for planning a test, performing reconnaissance, developing scenarios, implementing the test, and accurately reporting the results. Specific measures you can take to defend against weaknesses a social engineer may exploit are discussed in detail. This practical guide also addresses the impact of new and emerging technologies on future trends in social engineering.
+
+- [Social Engineering in IT Security: Tools, Tactics, and Techniques, Sharon Conheady](https://www.amazon.com/Social-Engineering-Security-Techniques-Networking/dp/0071818464)
 
 
 #### No tech Hacking
 As professional hackers, Johnny Long and Kevin Mitnick get paid to uncover weaknesses in those systems and exploit them. Whether breaking into buildings or slipping past industrial-grade firewalls, their goal has always been the same: extract the information using any means necessary. After hundreds of jobs, they have discovered the secrets to bypassing every conceivable high-tech security system. This book reveals those secrets; as the title suggests, it has nothing to do with high technology.
 
-[No Tech Hacking - Johnny Long, Kevin D. Mitnick](https://www.amazon.co.uk/No-Tech-Hacking-Engineering-Dumpster/dp/1597492159/ref=sr_1_1?ie=UTF8&qid=1494624109&sr=8-1&keywords=no+tech+hacking)
+- [No Tech Hacking - Johnny Long, Kevin D. Mitnick](https://www.amazon.co.uk/No-Tech-Hacking-Engineering-Dumpster/dp/1597492159/ref=sr_1_1?ie=UTF8&qid=1494624109&sr=8-1&keywords=no+tech+hacking)
 
-##### The Art of Deception: Controlling the Human Element of Security
+
+#### Low Tech Hacking
+Low Tech Hacking teaches your students how to avoid and defend against some of the simplest and most common hacks. Criminals using hacking techniques can cost corporations, governments, and individuals millions of dollars each year. This book focuses on the everyday hacks that, while simple in nature, actually add up to the most significant losses.
+
+- [Low Tech Hacking: Street Smarts for Security Professionals - Jack Wiles, Terry Gudaitis, Jennifer Jabbusch, Russ Rogers](https://www.amazon.it/Low-Tech-Hacking-Security-Professionals/dp/1597496650)
+
+
+#### The Art of Deception: Controlling the Human Element of Security
 Mitnick explains why all the firewalls and encryption protocols in the world will never be enough to stop a savvy grifter intent on rifling a corporate database or an irate employee determined to crash a system.  Mitnick offers advice for preventing these types of social engineering hacks through security protocols, training programs, and manuals that address the human element of security.
 
-[The Art of Deception: Controlling the Human Element of Security](https://www.amazon.co.uk/Art-Deception-Controlling-Element-Security/dp/076454280X/ref=pd_sim_14_1?_encoding=UTF8&psc=1&refRID=37KD2B6G2Q981MB8D2GM)
+- [The Art of Deception: Controlling the Human Element of Security, Kevin D. Mitnick, William L. Simon](https://www.amazon.co.uk/Art-Deception-Controlling-Element-Security/dp/076454280X/ref=pd_sim_14_1?_encoding=UTF8&psc=1&refRID=37KD2B6G2Q981MB8D2GM)
 
-#### Phishing Dark Waters: The Offensive and Defensive Sides of Malicious Emails
-Phishing Dark Waters addresses the growing and continuing scourge of phishing emails, and provides actionable defensive techniques and tools to help you steer clear of malicious emails. Phishing is analyzed from the viewpoint of human decision–making and the impact of deliberate influence and manipulation on the recipient. With expert guidance, this book provides insight into the financial, corporate espionage, nation state, and identity theft goals of the attackers, and teaches you how to spot a spoofed e–mail or cloned website.
 
-[Phishing Dark Waters: The Offensive and Defensive Sides of Malicious Emails](https://www.amazon.co.uk/Phishing-Dark-Waters-Offensive-Defensive-x/dp/1118958470/ref=sr_1_fkmr0_1?ie=UTF8&qid=1494622911&sr=8-1-fkmr0&keywords=chris+hadnagy)
+#### Ghost in the Wires: My Adventures as the World's Most Wanted Hacker
+Kevin Mitnick was the most elusive computer break-in artist in history. He accessed computers and networks at the world's biggest companies, and however fast the authorities were, Mitnick was faster, sprinting through phone switches, computer systems, and cellular networks. Ghost in the Wires is a thrilling true story of intrigue, suspense, and unbelievable escape, and a portrait of a visionary whose creativity, skills, and persistence forced the authorities to rethink the way they pursued him, inspiring ripples that brought permanent changes in the way people and companies protect their most sensitive information.
+- [Ghost in the Wires: My Adventures as the World's Most Wanted Hacker - Kevin D. Mitnick, William L. Simon, Steve Wozniak](https://www.amazon.com/Ghost-Wires-Adventures-Worlds-Wanted/dp/0316037729/ref=sr_1_1?s=books&ie=UTF8&qid=1494769979&sr=1-1&keywords=ghost+in+the+wires)
+
+
+#### The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data
+In this explosive yet practical book, Kevin Mitnick illustrates what is happening without your knowledge--and he teaches you "the art of invisibility." He provides both online and real life tactics and inexpensive methods to protect you and your family, in easy step-by-step instructions. He even talks about more advanced "elite" techniques, which, if used properly, can maximize your privacy. Invisibility isn't just for superheroes--privacy is a power you deserve and need in this modern age.
+
+[The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data -  Kevin Mitnick, Robert Vamosi](https://www.amazon.com/Art-Invisibility-Worlds-Teaches-Brother/dp/0316380520/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1494770268&sr=1-1)
+
+
+#### The Social Engineer's Playbook: A Practical Guide to Pretexting
+The Social Engineer's Playbook is a practical guide to pretexting and a collection of social engineering pretexts for Hackers, Social Engineers and Security Analysts. Build effective social engineering plans using the techniques, tools and expert guidance in this book.
+
+- [The Social Engineer's Playbook: A Practical Guide to Pretexting - Jeremiah Talamantes](https://www.amazon.com/Social-Engineers-Playbook-Practical-Pretexting/dp/0692306617/ref=sr_1_1?s=books&ie=UTF8&qid=1494770673&sr=1-1&keywords=The+Social+Engineer%27s+Playbook%3A+A+Practical+Guide+to+Pretexting)
+
+
 
 
 OSINT
