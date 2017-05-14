@@ -237,7 +237,9 @@ Miscellaneous
 * [Social Engineering: Compromising Users with an Office Document](http://resources.infosecinstitute.com/social-engineering-compromising-users-using-office-document/) - Infosec Institute
 
 ### Movies
-* [Tiger Team (TV series)](https://en.wikipedia.org/wiki/Tiger_Team_)
+* [Tiger Team (TV series)](https://en.wikipedia.org/wiki/Tiger_Team_) -
+* [Catch Me If You Can](http://www.imdb.com/title/tt0264464/)
+* [Inception](http://www.imdb.com/title/tt1375666/)
 
 Contribution
 ================
