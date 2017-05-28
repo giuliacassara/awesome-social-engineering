@@ -2,6 +2,9 @@ Awesome Social Engineering
 ===============
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+<p align="center">
+  <img id="awesome-social-engineering" src="images/social_engineering.jpg">
+</p>
 
 A curated list of awesome social engineering resources, inspired by the awesome-* trend on GitHub.
 
@@ -165,7 +168,6 @@ OSINT
 =================
 
 #### OSINT Resources
-##### Some links are taken from [awesome-pentest](https://github.com/enaqx/awesome-pentest)
 
 * [OSINT Framework](http://osintframework.com/) - Collection of various OSInt tools broken out by category.
 * [Intel Techniques](https://inteltechniques.com/menu.html) - A collection of OSINT tools. Menu on the left can be used to navigate through the categories.
@@ -173,6 +175,7 @@ OSINT
 * [Automating OSINT blog](http://www.automatingosint.com/blog/) - A blog about OSINT curated by Justin Seitz, the same author of BHP.
 
 #### OSINT Tools
+
 * [Intel Techniques Online Tools](https://inteltechniques.com/menu.html) - Use the links to the left to access all of the custom search tools.
 * [Buscador](https://inteltechniques.com/buscador/) - A Linux Virtual Machine that is pre-configured for online investigators
 * [Maltego](http://www.paterva.com/web7/) - Proprietary software for open source intelligence and forensics, from Paterva.
@@ -191,6 +194,7 @@ OSINT
 * [Spiderfoot](http://www.spiderfoot.net/) - multi-source OSINT automation tool with a Web UI and report visualizations
 * [DataSploit](https://github.com/upgoingstar/datasploit) - OSINT visualizer utilizing Shodan, Censys, Clearbit, EmailHunter, FullContact, and Zoomeye behind the scenes.
 * [snitch](https://github.com/Smaash/snitch) - information gathering via dorks
+* [Geotweet_GUI](https://github.com/Pinperepette/Geotweet_GUI) - Track geographical locations of tweets and then export to google maps.
 
 Documentation
 =================
