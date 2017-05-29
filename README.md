@@ -153,7 +153,7 @@ Kevin Mitnick was the most elusive computer break-in artist in history. He acces
 #### The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data
 In this explosive yet practical book, Kevin Mitnick illustrates what is happening without your knowledge--and he teaches you "the art of invisibility." He provides both online and real life tactics and inexpensive methods to protect you and your family, in easy step-by-step instructions. He even talks about more advanced "elite" techniques, which, if used properly, can maximize your privacy. Invisibility isn't just for superheroes--privacy is a power you deserve and need in this modern age.
 
-[The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data -  Kevin Mitnick, Robert Vamosi](https://www.amazon.com/Art-Invisibility-Worlds-Teaches-Brother/dp/0316380520/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1494770268&sr=1-1)
+- [The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data -  Kevin Mitnick, Robert Vamosi](https://www.amazon.com/Art-Invisibility-Worlds-Teaches-Brother/dp/0316380520/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1494770268&sr=1-1)
 
 
 #### The Social Engineer's Playbook: A Practical Guide to Pretexting
