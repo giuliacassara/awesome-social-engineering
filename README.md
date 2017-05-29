@@ -75,7 +75,7 @@ This course will highlight the most interesting experiments within the field of 
 You will explore the psychology of our everyday thinking: why people believe weird things, how we form and change our opinions, why our expectations skew our judgments, and how we can make better decisions.
 This course will provide you tools for improving your everyday thinking, tips and tricks for changing people’s minds . Also, you'll be able to use techniques for learning and retaining information longer and how to distinguish fact from fiction.
 
-- [University of Toronto - Introduction to Psychology](https://www.coursera.org/learn/introduction-psych)
+- [The University of Queensland - The Science of Everyday Thinking](https://www.edx.org/course/science-everyday-thinking-uqx-think101x-4)
 
 #### Psychology Books
 Most of these books covers the basics of psychology useful for a social engineer.
