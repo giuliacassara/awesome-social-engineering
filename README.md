@@ -74,7 +74,7 @@ This course will highlight the most interesting experiments within the field of 
 You will explore the psychology of our everyday thinking: why people believe weird things, how we form and change our opinions, why our expectations skew our judgments, and how we can make better decisions.
 This course will provide you tools for improving your everyday thinking, tips and tricks for changing people’s minds . Also, you'll be able to use techniques for learning and retaining information longer and how to distinguish fact from fiction.
 
-- [University of Toronto - Introduction to Psychology](https://www.coursera.org/learn/introduction-psych)
+- [The University of Queensland - The Science of Everyday Thinking](https://www.edx.org/course/science-everyday-thinking-uqx-think101x-4)
 
 #### Psychology Books
 Most of these books covers the basics of psychology useful for a social engineer.
@@ -215,6 +215,7 @@ Tools
 * [wifiphisher](https://github.com/sophron/wifiphisher) - Automated phishing attacks against Wi-Fi networks
 * [PhishingFrenzy](https://www.phishingfrenzy.com/) - Phishing Frenzy is an Open Source Ruby on Rails application that is leveraged by penetration testers to manage email phishing campaigns.
 * [Evilginx](https://github.com/kgretzky/evilginx) - MITM attack framework used for phishing credentials and session cookies from any Web service
+* [Lucy Phishing Server](https://www.lucysecurity.com/) - (commercial) tool to perform security awareness trainings for employees including custom phishing campaigns, malware attacks etc. Includes many useful attack templates as well as training materials to raise security awareness.
 
 Miscellaneous
 =================
