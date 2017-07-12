@@ -67,8 +67,7 @@ Psychology Resources
 
 #### University of Toronto - Introduction to Psychology
 As a social engineer you have to understand human psychology, so the more you know about psychology, the better. <br />
-This course will highlight the most interesting experiments within the field of psychology, discussing the implications of those studies for our understanding of the human mind and human behavior.  We will explore the brain and some of the cognitive abilities it supports like memory, learning, attention, perception and consciousness.
-
+This course will highlight the most interesting experiments within the field of psychology, discussing the implications of those studies for our understanding of the human mind and human behavior.
 - [University of Toronto - Introduction to Psychology](https://www.coursera.org/learn/introduction-psych)
 
 #### The University of Queensland - The Science of Everyday Thinking
@@ -169,6 +168,7 @@ OSINT
 
 #### OSINT Resources
 
+* [Awesome OSINT](https://github.com/jivoi/awesome-osint) - Awesome list of OSINT
 * [OSINT Framework](http://osintframework.com/) - Collection of various OSInt tools broken out by category.
 * [Intel Techniques](https://inteltechniques.com/menu.html) - A collection of OSINT tools. Menu on the left can be used to navigate through the categories.
 * [NetBootcamp OSINT Tools](http://netbootcamp.org/osinttools/) - A collection of OSINT links and custom Web interfaces to other services such as [Facebook Graph Search](http://netbootcamp.org/facebook.html) and [various paste sites](http://netbootcamp.org/pastesearch.html).
