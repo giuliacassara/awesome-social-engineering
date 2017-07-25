@@ -176,6 +176,7 @@ OSINT
 
 #### OSINT Tools
 
+* [XRay](https://github.com/evilsocket/xray) - XRay is a tool for recon, mapping and OSINT gathering from public networks.
 * [Intel Techniques Online Tools](https://inteltechniques.com/menu.html) - Use the links to the left to access all of the custom search tools.
 * [Buscador](https://inteltechniques.com/buscador/) - A Linux Virtual Machine that is pre-configured for online investigators
 * [Maltego](http://www.paterva.com/web7/) - Proprietary software for open source intelligence and forensics, from Paterva.
