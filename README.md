@@ -37,7 +37,7 @@ Online Courses
 
 - [Udemy - Learn Social Engineering from Scratch](https://www.udemy.com/learn-social-engineering-from-scratch)
 
-- [Cybrary - Social Engineering and Manipulation](https://www.cybrary.it/course/social-engineering/)
+- [Cybrary - Social Engineering and Manipulation](https://www.cybrary.it/course/social-engineering/) - Free Course
 
 
 Capture the Flag
