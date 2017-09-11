@@ -160,13 +160,11 @@ Miscellaneous
 
 ### Videos
 
-  * #### DefCON
-    * [Chris Hadnagy - 7 Jedi Mind Tricks Influence Your Target without a Word](https://media.defcon.org/DEF%20CON%2024/DEF%20CON%2024%20villages/DEF%20CON%2024%20Social%20Engineer%20Village%20-%20Chris%20Hadnagy%20-%207%20Jedi%20Mind%20Tricks%20Influence%20Your%20Target%20without%20a%20Word.mp4)
-    * [Robert Anderson - US Interrogation Techniques and Social Engineering.mp4](https://media.defcon.org/DEF%20CON%2024/DEF%20CON%2024%20villages/DEF%20CON%2024%20Social%20Engineer%20Village%20-%20Robert%20Anderson%20-%20US%20Interrogation%20Techniques%20and%20Social%20Engineering.mp4)
-    * [Ian Harris - Understanding Social Engineering Attacks with Natural Language Processing](https://media.defcon.org/DEF%20CON%2023/DEF%20CON%2023%20villages%20video/DEF%20CON%2023%20Social%20Engineering%20Village%20-%20Ian%20Harris%20-%20Understanding%20Social%20Engineering%20Attacks%20with%20Natural%20Language%20Processing%20-%20Video.mp4)
-    * [Chris Hadnagy - Social Engineering for Fun and Profit](https://www.youtube.com/watch?v=cI9xOR7xEi0)
-
-
+* [Chris Hadnagy - 7 Jedi Mind Tricks Influence Your Target without a Word](https://media.defcon.org/DEF%20CON%2024/DEF%20CON%2024%20villages/DEF%20CON%2024%20Social%20Engineer%20Village%20-%20Chris%20Hadnagy%20-%207%20Jedi%20Mind%20Tricks%20Influence%20Your%20Target%20without%20a%20Word.mp4)
+* [Robert Anderson - US Interrogation Techniques and Social Engineering.mp4](https://media.defcon.org/DEF%20CON%2024/DEF%20CON%2024%20villages/DEF%20CON%2024%20Social%20Engineer%20Village%20-%20Robert%20Anderson%20-%20US%20Interrogation%20Techniques%20and%20Social%20Engineering.mp4)
+* [Ian Harris - Understanding Social Engineering Attacks with Natural Language Processing](https://media.defcon.org/DEF%20CON%2023/DEF%20CON%2023%20villages%20video/DEF%20CON%2023%20Social%20Engineering%20Village%20-%20Ian%20Harris%20-%20Understanding%20Social%20Engineering%20Attacks%20with%20Natural%20Language%20Processing%20-%20Video.mp4)
+* [Chris Hadnagy - Social Engineering for Fun and Profit](https://www.youtube.com/watch?v=cI9xOR7xEi0)
+* [Chris Hadnagy - Decoding humans live](https://www.youtube.com/watch?v=DoDWBe9atIo) - DerbyCon 2015
 * [This is how hackers hack you using simple social engineering](https://www.youtube.com/watch?v=lc7scxvKQOo)
 
 ### Articles
