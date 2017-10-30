@@ -172,6 +172,7 @@ Miscellaneous
 * [The 7 Best Social Engineering Attacks Ever](http://www.darkreading.com/the-7-best-social-engineering-attacks-ever/d/d-id/1319411) - DarkReading
 * [Social Engineering: Compromising Users with an Office Document](http://resources.infosecinstitute.com/social-engineering-compromising-users-using-office-document/) - Infosec Institute
 * [The Persuasion Reading List](http://blog.dilbert.com/post/129784168866/the-persuasion-reading-list) - Scott Adams' Blog
+* [How I Socially Engineer Myself Into High Security Facilities](https://motherboard.vice.com/en_us/article/qv34zb/how-i-socially-engineer-myself-into-high-security-facilities)
 
 ### Movies
 * [Tiger Team (TV series)](https://en.wikipedia.org/wiki/Tiger_Team_)
