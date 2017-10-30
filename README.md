@@ -143,7 +143,7 @@ Tools
 * [SET](https://github.com/trustedsec/social-engineer-toolkit) - The Social-Engineer Toolkit from TrustedSec
 
 #### Phishing tools
-* [Gophich](https://getgophish.com/) - Open-Source Phishing Framework
+* [Gophish](https://getgophish.com/) - Open-Source Phishing Framework
 * [King Phisher](https://github.com/securestate/king-phisher) - Phishing campaign toolkit used for creating and managing multiple simultaneous phishing attacks with custom email and server content.
 * [wifiphisher](https://github.com/sophron/wifiphisher) - Automated phishing attacks against Wi-Fi networks
 * [PhishingFrenzy](https://www.phishingfrenzy.com/) - Phishing Frenzy is an Open Source Ruby on Rails application that is leveraged by penetration testers to manage email phishing campaigns.
