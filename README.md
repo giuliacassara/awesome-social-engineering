@@ -19,11 +19,11 @@ Table of Contents
 1. [Online Courses](#online-courses)
 2. [Capture the Flag](#capture-the-flag)
 3. [Psychology Books](#psychology-books)
-4. [Books](#books)
-5. [OSINT](#osint)
-6. [Documentation](#documentation)
-7. [Tools](#tools)
-8. [Miscellaneus](#miscellaneous)
+4. [Books](#social-engineering-books)
+5. [Documentation](#documentation)
+6. [Tools](#tools)
+7. [Miscellaneus](#miscellaneous)
+8. [OSINT](#osint)
 9. [Contribution](#contribution)
 10. [License](#license)
 
@@ -71,7 +71,7 @@ Most of these books covers the basics of psychology useful for a social engineer
 
 - [What Every Body is Saying: An Ex-FBI Agent's Guide to Speed-Reading People -  Joe Navarro, Marvin Karlins](https://www.goodreads.com/book/show/1173576.What_Every_Body_is_Saying)
 
-Books
+Social Engineering Books
 =================
 
 - [Social Engineering: The Art of Human Hacking - Chris Hadnagy](https://www.amazon.co.uk/Social-Engineering-Art-Human-Hacking/dp/0470639539/ref=sr_1_1?ie=UTF8&qid=1494622911&sr=8-1&keywords=chris+hadnagy)
@@ -99,8 +99,57 @@ Books
 - [Learn Social Engineering - Erdal Ozkaya](https://www.packtpub.com/networking-and-servers/learn-social-engineering)
 
 
+Documentation
+=================
+#### Social Engineer resources
 
+* [The Social-Engineer portal](https://www.social-engineer.org/) - Everything you need to know as a social engineer is in this site. You will find podcasts, resources, framework, informations about next events, blog ecc...
 
+Tools
+=================
+
+#### Useful tools
+* [Tor](https://www.torproject.org/) - The free software for enabling onion routing online anonymity
+* [SET](https://github.com/trustedsec/social-engineer-toolkit) - The Social-Engineer Toolkit from TrustedSec
+
+#### Phishing tools
+* [Gophish](https://getgophish.com/) - Open-Source Phishing Framework
+* [King Phisher](https://github.com/securestate/king-phisher) - Phishing campaign toolkit used for creating and managing multiple simultaneous phishing attacks with custom email and server content.
+* [wifiphisher](https://github.com/sophron/wifiphisher) - Automated phishing attacks against Wi-Fi networks
+* [PhishingFrenzy](https://www.phishingfrenzy.com/) - Phishing Frenzy is an Open Source Ruby on Rails application that is leveraged by penetration testers to manage email phishing campaigns.
+* [Evilginx](https://github.com/kgretzky/evilginx) - MITM attack framework used for phishing credentials and session cookies from any Web service
+* [Lucy Phishing Server](https://www.lucysecurity.com/) - (commercial) tool to perform security awareness trainings for employees including custom phishing campaigns, malware attacks etc. Includes many useful attack templates as well as training materials to raise security awareness.
+
+Miscellaneous
+=================
+
+### Slides
+* [OWASP Presentation of Social Engineering](https://www.owasp.org/images/5/54/Presentation_Social_Engineering.pdf) - OWASP
+* [Weaponizing data science for social engineering: Automated E2E spear phishing on Twitter](https://media.defcon.org/DEF%20CON%2024/DEF%20CON%2024%20presentations/DEFCON-24-Seymour-Tully-Weaponizing-Data-Science-For-Social-Engineering-WP.pdf) - Defcon 23
+* [Using Social Engineering Tactics For Big Data Espionage](https://www.rsaconference.com/writable/presentations/file_upload/das-301_williams_rader.pdf) - RSA Conference Europe 2012
+
+### Videos
+
+* [Chris Hadnagy - 7 Jedi Mind Tricks Influence Your Target without a Word](https://www.youtube.com/watch?v=OOQGsFlTHMQ)
+* [Robert Anderson - US Interrogation Techniques and Social Engineering](https://www.youtube.com/watch?v=nQqp6yqf4Ao)
+* [Ian Harris - Understanding Social Engineering Attacks with Natural Language Processing](https://www.youtube.com/watch?v=H3gfMkvw76o)
+* [Chris Hadnagy - Social Engineering for Fun and Profit](https://www.youtube.com/watch?v=cI9xOR7xEi0)
+* [Chris Hadnagy - Decoding humans live](https://www.youtube.com/watch?v=DoDWBe9atIo) - DerbyCon 2015
+* [This is how hackers hack you using simple social engineering](https://www.youtube.com/watch?v=lc7scxvKQOo)
+
+### Articles
+* [The Limits of Social Engineering](https://www.technologyreview.com/s/526561/the-limits-of-social-engineering/) - MIT, Technology Review
+* [The 7 Best Social Engineering Attacks Ever](http://www.darkreading.com/the-7-best-social-engineering-attacks-ever/d/d-id/1319411) - DarkReading
+* [Social Engineering: Compromising Users with an Office Document](http://resources.infosecinstitute.com/social-engineering-compromising-users-using-office-document/) - Infosec Institute
+* [The Persuasion Reading List](http://blog.dilbert.com/post/129784168866/the-persuasion-reading-list) - Scott Adams' Blog
+* [How I Socially Engineer Myself Into High Security Facilities](https://motherboard.vice.com/en_us/article/qv34zb/how-i-socially-engineer-myself-into-high-security-facilities) - Sophie Daniel
+
+### Movies
+* [Tiger Team (TV series)](https://en.wikipedia.org/wiki/Tiger_Team_)
+* [Catch Me If You Can](http://www.imdb.com/title/tt0264464/)
+* [Inception](http://www.imdb.com/title/tt1375666/)
+* [The Sting](https://www.imdb.com/title/tt0070735/)
+* [Sneakers](https://www.imdb.com/title/tt0105435/)
 
 OSINT
 =================
@@ -135,56 +184,6 @@ OSINT
 * [DataSploit](https://github.com/upgoingstar/datasploit) - OSINT visualizer utilizing Shodan, Censys, Clearbit, EmailHunter, FullContact, and Zoomeye behind the scenes.
 * [snitch](https://github.com/Smaash/snitch) - information gathering via dorks
 * [Geotweet_GUI](https://github.com/Pinperepette/Geotweet_GUI) - Track geographical locations of tweets and then export to google maps.
-
-Documentation
-=================
-#### Social Engineer resources
-
-* [The Social-Engineer portal](https://www.social-engineer.org/) - Everything you need to know as a social engineer is in this site. You will find podcasts, resources, framework, informations about next events, blog ecc...
-
-Tools
-=================
-
-#### Useful tools
-* [Tor](https://www.torproject.org/) - The free software for enabling onion routing online anonymity
-* [SET](https://github.com/trustedsec/social-engineer-toolkit) - The Social-Engineer Toolkit from TrustedSec
-
-#### Phishing tools
-* [Gophish](https://getgophish.com/) - Open-Source Phishing Framework
-* [King Phisher](https://github.com/securestate/king-phisher) - Phishing campaign toolkit used for creating and managing multiple simultaneous phishing attacks with custom email and server content.
-* [wifiphisher](https://github.com/sophron/wifiphisher) - Automated phishing attacks against Wi-Fi networks
-* [PhishingFrenzy](https://www.phishingfrenzy.com/) - Phishing Frenzy is an Open Source Ruby on Rails application that is leveraged by penetration testers to manage email phishing campaigns.
-* [Evilginx](https://github.com/kgretzky/evilginx) - MITM attack framework used for phishing credentials and session cookies from any Web service
-* [Lucy Phishing Server](https://www.lucysecurity.com/) - (commercial) tool to perform security awareness trainings for employees including custom phishing campaigns, malware attacks etc. Includes many useful attack templates as well as training materials to raise security awareness.
-
-Miscellaneous
-=================
-
-### Slides
-* [OWASP Presentation of Social Engineering](https://www.owasp.org/images/5/54/Presentation_Social_Engineering.pdf) - OWASP
-* [Weaponizing data science for social engineering: Automated E2E spear phishing on Twitter](https://media.defcon.org/DEF%20CON%2024/DEF%20CON%2024%20presentations/DEFCON-24-Seymour-Tully-Weaponizing-Data-Science-For-Social-Engineering-WP.pdf) - Defcon 23
-* [Using Social Engineering Tactics For Big Data Espionage](https://www.rsaconference.com/writable/presentations/file_upload/das-301_williams_rader.pdf) - RSA Conference Europe 2012
-
-### Videos
-
-* [Chris Hadnagy - 7 Jedi Mind Tricks Influence Your Target without a Word](https://media.defcon.org/DEF%20CON%2024/DEF%20CON%2024%20villages/DEF%20CON%2024%20Social%20Engineer%20Village%20-%20Chris%20Hadnagy%20-%207%20Jedi%20Mind%20Tricks%20Influence%20Your%20Target%20without%20a%20Word.mp4)
-* [Robert Anderson - US Interrogation Techniques and Social Engineering.mp4](https://media.defcon.org/DEF%20CON%2024/DEF%20CON%2024%20villages/DEF%20CON%2024%20Social%20Engineer%20Village%20-%20Robert%20Anderson%20-%20US%20Interrogation%20Techniques%20and%20Social%20Engineering.mp4)
-* [Ian Harris - Understanding Social Engineering Attacks with Natural Language Processing](https://media.defcon.org/DEF%20CON%2023/DEF%20CON%2023%20villages%20video/DEF%20CON%2023%20Social%20Engineering%20Village%20-%20Ian%20Harris%20-%20Understanding%20Social%20Engineering%20Attacks%20with%20Natural%20Language%20Processing%20-%20Video.mp4)
-* [Chris Hadnagy - Social Engineering for Fun and Profit](https://www.youtube.com/watch?v=cI9xOR7xEi0)
-* [Chris Hadnagy - Decoding humans live](https://www.youtube.com/watch?v=DoDWBe9atIo) - DerbyCon 2015
-* [This is how hackers hack you using simple social engineering](https://www.youtube.com/watch?v=lc7scxvKQOo)
-
-### Articles
-* [The Limits of Social Engineering](https://www.technologyreview.com/s/526561/the-limits-of-social-engineering/) - MIT, Technology Review
-* [The 7 Best Social Engineering Attacks Ever](http://www.darkreading.com/the-7-best-social-engineering-attacks-ever/d/d-id/1319411) - DarkReading
-* [Social Engineering: Compromising Users with an Office Document](http://resources.infosecinstitute.com/social-engineering-compromising-users-using-office-document/) - Infosec Institute
-* [The Persuasion Reading List](http://blog.dilbert.com/post/129784168866/the-persuasion-reading-list) - Scott Adams' Blog
-* [How I Socially Engineer Myself Into High Security Facilities](https://motherboard.vice.com/en_us/article/qv34zb/how-i-socially-engineer-myself-into-high-security-facilities) - Sophie Daniel
-
-### Movies
-* [Tiger Team (TV series)](https://en.wikipedia.org/wiki/Tiger_Team_)
-* [Catch Me If You Can](http://www.imdb.com/title/tt0264464/)
-* [Inception](http://www.imdb.com/title/tt1375666/)
 
 Contribution
 ================
