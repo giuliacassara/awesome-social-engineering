@@ -173,7 +173,7 @@ OSINT
 * [exiftool.rb](https://github.com/mceachen/exiftool.rb) - A ruby wrapper of the exiftool, a open-source tool used to extract metadata from files.
 * [metagoofil](https://github.com/laramies/metagoofil) - Metadata harvester
 * [Google Hacking Database](https://www.exploit-db.com/google-hacking-database/) - a database of Google dorks; can be used for recon
-* [Google-dorks](https://github.com/JohnTroony/Google-dorks) - Common google dorks and others you prolly don't know
+* [Google-Dorks](https://github.com/arimogi/Google-Dorks) - Common google dorks and others you prolly don't know
 * [GooDork](https://github.com/k3170makan/GooDork) - Command line go0gle dorking tool
 * [dork-cli](https://github.com/jgor/dork-cli) - Command-line Google dork tool.
 * [Shodan](https://www.shodan.io/) - Shodan is the world's first search engine for Internet-connected devices
