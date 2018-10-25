@@ -18,8 +18,8 @@ Table of Contents
 
 1. [Online Courses](#online-courses)
 2. [Capture the Flag](#capture-the-flag)
-3. [Psychology Resources](#psychology-books)
-4. [Books](#social-engineering-books)
+3. [Psychology Books](#psychology-books)
+4. [Books](#books)
 5. [OSINT](#osint)
 6. [Documentation](#documentation)
 7. [Tools](#tools)
