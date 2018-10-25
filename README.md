@@ -19,7 +19,7 @@ Table of Contents
 1. [Online Courses](#online-courses)
 2. [Capture the Flag](#capture-the-flag)
 3. [Psychology Resources](#psychology-books)
-4. [Social Engineering Books](#social-engineering-books)
+4. [Books](#social-engineering-books)
 5. [OSINT](#osint)
 6. [Documentation](#documentation)
 7. [Tools](#tools)
@@ -37,7 +37,10 @@ Online Courses
 
 - [Udemy - Learn Social Engineering from Scratch](https://www.udemy.com/learn-social-engineering-from-scratch)
 
+- [PacktPub - Learn Social Engineering From Scratch by Zaid Sabih](https://www.packtpub.com/application-development/learn-social-engineering-scratch-video)
+
 - [Cybrary - Social Engineering and Manipulation](https://www.cybrary.it/course/social-engineering/) - Free Course
+
 
 
 Capture the Flag
@@ -68,11 +71,12 @@ Most of these books covers the basics of psychology useful for a social engineer
 
 - [What Every Body is Saying: An Ex-FBI Agent's Guide to Speed-Reading People -  Joe Navarro, Marvin Karlins](https://www.goodreads.com/book/show/1173576.What_Every_Body_is_Saying)
 
-Social Engineering Books
+Books
 =================
 
-
 - [Social Engineering: The Art of Human Hacking - Chris Hadnagy](https://www.amazon.co.uk/Social-Engineering-Art-Human-Hacking/dp/0470639539/ref=sr_1_1?ie=UTF8&qid=1494622911&sr=8-1&keywords=chris+hadnagy)
+
+- [Social Engineering: The Science of Human Hacking](https://www.amazon.com/gp/product/111943338X/ref=dbs_a_def_rwt_bibl_vppi_i0)
 
 - [Unmasking the Social Engineer: The Human Element of Security - Christopher Hadnagy, Dr. Ekman Paul](https://www.amazon.com/Unmasking-Social-Engineer-Element-Security/dp/1118608577)
 
@@ -91,6 +95,9 @@ Social Engineering Books
 - [The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data -  Kevin Mitnick, Robert Vamosi](https://www.amazon.com/Art-Invisibility-Worlds-Teaches-Brother/dp/0316380520/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1494770268&sr=1-1)
 
 - [The Social Engineer's Playbook: A Practical Guide to Pretexting - Jeremiah Talamantes](https://www.amazon.com/Social-Engineers-Playbook-Practical-Pretexting/dp/0692306617/ref=sr_1_1?s=books&ie=UTF8&qid=1494770673&sr=1-1&keywords=The+Social+Engineer%27s+Playbook%3A+A+Practical+Guide+to+Pretexting)
+
+- [Learn Social Engineering - Erdal Ozkaya](https://www.packtpub.com/networking-and-servers/learn-social-engineering)
+
 
 
 
