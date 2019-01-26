@@ -18,12 +18,12 @@ Table of Contents
 
 1. [Online Courses](#online-courses)
 2. [Capture the Flag](#capture-the-flag)
-3. [Psychology Resources](#psychology-books)
-4. [Social Engineering Books](#social-engineering-books)
-5. [OSINT](#osint)
-6. [Documentation](#documentation)
-7. [Tools](#tools)
-8. [Miscellaneus](#miscellaneous)
+3. [Psychology Books](#psychology-books)
+4. [Books](#social-engineering-books)
+5. [Documentation](#documentation)
+6. [Tools](#tools)
+7. [Miscellaneus](#miscellaneous)
+8. [OSINT](#osint)
 9. [Contribution](#contribution)
 10. [License](#license)
 
@@ -37,7 +37,10 @@ Online Courses
 
 - [Udemy - Learn Social Engineering from Scratch](https://www.udemy.com/learn-social-engineering-from-scratch)
 
+- [PacktPub - Learn Social Engineering From Scratch by Zaid Sabih](https://www.packtpub.com/application-development/learn-social-engineering-scratch-video)
+
 - [Cybrary - Social Engineering and Manipulation](https://www.cybrary.it/course/social-engineering/) - Free Course
+
 
 
 Capture the Flag
@@ -71,8 +74,9 @@ Most of these books covers the basics of psychology useful for a social engineer
 Social Engineering Books
 =================
 
-
 - [Social Engineering: The Art of Human Hacking - Chris Hadnagy](https://www.amazon.co.uk/Social-Engineering-Art-Human-Hacking/dp/0470639539/ref=sr_1_1?ie=UTF8&qid=1494622911&sr=8-1&keywords=chris+hadnagy)
+
+- [Social Engineering: The Science of Human Hacking](https://www.amazon.com/gp/product/111943338X/ref=dbs_a_def_rwt_bibl_vppi_i0)
 
 - [Unmasking the Social Engineer: The Human Element of Security - Christopher Hadnagy, Dr. Ekman Paul](https://www.amazon.com/Unmasking-Social-Engineer-Element-Security/dp/1118608577)
 
@@ -92,42 +96,8 @@ Social Engineering Books
 
 - [The Social Engineer's Playbook: A Practical Guide to Pretexting - Jeremiah Talamantes](https://www.amazon.com/Social-Engineers-Playbook-Practical-Pretexting/dp/0692306617/ref=sr_1_1?s=books&ie=UTF8&qid=1494770673&sr=1-1&keywords=The+Social+Engineer%27s+Playbook%3A+A+Practical+Guide+to+Pretexting)
 
+- [Learn Social Engineering - Erdal Ozkaya](https://www.packtpub.com/networking-and-servers/learn-social-engineering)
 
-
-
-OSINT
-=================
-
-#### OSINT Resources
-
-* [Awesome OSINT](https://github.com/jivoi/awesome-osint) - Awesome list of OSINT
-* [OSINT Framework](http://osintframework.com/) - Collection of various OSInt tools broken out by category.
-* [Intel Techniques](https://inteltechniques.com/menu.html) - A collection of OSINT tools. Menu on the left can be used to navigate through the categories.
-* [NetBootcamp OSINT Tools](http://netbootcamp.org/osinttools/) - A collection of OSINT links and custom Web interfaces to other services such as [Facebook Graph Search](http://netbootcamp.org/facebook.html) and [various paste sites](http://netbootcamp.org/pastesearch.html).
-* [Automating OSINT blog](http://www.automatingosint.com/blog/) - A blog about OSINT curated by Justin Seitz, the same author of BHP.
-
-#### OSINT Tools
-
-* [XRay](https://github.com/evilsocket/xray) - XRay is a tool for recon, mapping and OSINT gathering from public networks.
-* [Intel Techniques Online Tools](https://inteltechniques.com/menu.html) - Use the links to the left to access all of the custom search tools.
-* [Buscador](https://inteltechniques.com/buscador/) - A Linux Virtual Machine that is pre-configured for online investigators
-* [Maltego](http://www.paterva.com/web7/) - Proprietary software for open source intelligence and forensics, from Paterva.
-* [theHarvester](https://github.com/laramies/theHarvester) - E-mail, subdomain and people names harvester
-* [creepy](https://github.com/ilektrojohn/creepy) - A geolocation OSINT tool
-* [exiftool.rb](https://github.com/mceachen/exiftool.rb) - A ruby wrapper of the exiftool, a open-source tool used to extract metadata from files.
-* [metagoofil](https://github.com/laramies/metagoofil) - Metadata harvester
-* [Google Hacking Database](https://www.exploit-db.com/google-hacking-database/) - a database of Google dorks; can be used for recon
-* [Google-dorks](https://github.com/JohnTroony/Google-dorks) - Common google dorks and others you prolly don't know
-* [GooDork](https://github.com/k3170makan/GooDork) - Command line go0gle dorking tool
-* [dork-cli](https://github.com/jgor/dork-cli) - Command-line Google dork tool.
-* [Shodan](https://www.shodan.io/) - Shodan is the world's first search engine for Internet-connected devices
-* [recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng) - A full-featured Web Reconnaissance framework written in Python
-* [github-dorks](https://github.com/techgaun/github-dorks) - CLI tool to scan github repos/organizations for potential sensitive information leak
-* [vcsmap](https://github.com/melvinsh/vcsmap) - A plugin-based tool to scan public version control systems for sensitive information
-* [Spiderfoot](http://www.spiderfoot.net/) - multi-source OSINT automation tool with a Web UI and report visualizations
-* [DataSploit](https://github.com/upgoingstar/datasploit) - OSINT visualizer utilizing Shodan, Censys, Clearbit, EmailHunter, FullContact, and Zoomeye behind the scenes.
-* [snitch](https://github.com/Smaash/snitch) - information gathering via dorks
-* [Geotweet_GUI](https://github.com/Pinperepette/Geotweet_GUI) - Track geographical locations of tweets and then export to google maps.
 
 Documentation
 =================
@@ -160,9 +130,9 @@ Miscellaneous
 
 ### Videos
 
-* [Chris Hadnagy - 7 Jedi Mind Tricks Influence Your Target without a Word](https://media.defcon.org/DEF%20CON%2024/DEF%20CON%2024%20villages/DEF%20CON%2024%20Social%20Engineer%20Village%20-%20Chris%20Hadnagy%20-%207%20Jedi%20Mind%20Tricks%20Influence%20Your%20Target%20without%20a%20Word.mp4)
-* [Robert Anderson - US Interrogation Techniques and Social Engineering.mp4](https://media.defcon.org/DEF%20CON%2024/DEF%20CON%2024%20villages/DEF%20CON%2024%20Social%20Engineer%20Village%20-%20Robert%20Anderson%20-%20US%20Interrogation%20Techniques%20and%20Social%20Engineering.mp4)
-* [Ian Harris - Understanding Social Engineering Attacks with Natural Language Processing](https://media.defcon.org/DEF%20CON%2023/DEF%20CON%2023%20villages%20video/DEF%20CON%2023%20Social%20Engineering%20Village%20-%20Ian%20Harris%20-%20Understanding%20Social%20Engineering%20Attacks%20with%20Natural%20Language%20Processing%20-%20Video.mp4)
+* [Chris Hadnagy - 7 Jedi Mind Tricks Influence Your Target without a Word](https://www.youtube.com/watch?v=OOQGsFlTHMQ)
+* [Robert Anderson - US Interrogation Techniques and Social Engineering](https://www.youtube.com/watch?v=nQqp6yqf4Ao)
+* [Ian Harris - Understanding Social Engineering Attacks with Natural Language Processing](https://www.youtube.com/watch?v=H3gfMkvw76o)
 * [Chris Hadnagy - Social Engineering for Fun and Profit](https://www.youtube.com/watch?v=cI9xOR7xEi0)
 * [Chris Hadnagy - Decoding humans live](https://www.youtube.com/watch?v=DoDWBe9atIo) - DerbyCon 2015
 * [This is how hackers hack you using simple social engineering](https://www.youtube.com/watch?v=lc7scxvKQOo)
@@ -178,6 +148,42 @@ Miscellaneous
 * [Tiger Team (TV series)](https://en.wikipedia.org/wiki/Tiger_Team_)
 * [Catch Me If You Can](http://www.imdb.com/title/tt0264464/)
 * [Inception](http://www.imdb.com/title/tt1375666/)
+* [The Sting](https://www.imdb.com/title/tt0070735/)
+* [Sneakers](https://www.imdb.com/title/tt0105435/)
+
+OSINT
+=================
+
+#### OSINT Resources
+
+* [Awesome OSINT](https://github.com/jivoi/awesome-osint) - Awesome list of OSINT
+* [OSINT Framework](http://osintframework.com/) - Collection of various OSInt tools broken out by category.
+* [Intel Techniques](https://inteltechniques.com/menu.html) - A collection of OSINT tools. Menu on the left can be used to navigate through the categories.
+* [NetBootcamp OSINT Tools](http://netbootcamp.org/osinttools/) - A collection of OSINT links and custom Web interfaces to other services such as [Facebook Graph Search](http://netbootcamp.org/facebook.html) and [various paste sites](http://netbootcamp.org/pastesearch.html).
+* [Automating OSINT blog](http://www.automatingosint.com/blog/) - A blog about OSINT curated by Justin Seitz, the same author of BHP.
+
+#### OSINT Tools
+
+* [XRay](https://github.com/evilsocket/xray) - XRay is a tool for recon, mapping and OSINT gathering from public networks.
+* [Intel Techniques Online Tools](https://inteltechniques.com/menu.html) - Use the links to the left to access all of the custom search tools.
+* [Buscador](https://inteltechniques.com/buscador/) - A Linux Virtual Machine that is pre-configured for online investigators
+* [Maltego](http://www.paterva.com/web7/) - Proprietary software for open source intelligence and forensics, from Paterva.
+* [theHarvester](https://github.com/laramies/theHarvester) - E-mail, subdomain and people names harvester
+* [creepy](https://github.com/ilektrojohn/creepy) - A geolocation OSINT tool
+* [exiftool.rb](https://github.com/mceachen/exiftool.rb) - A ruby wrapper of the exiftool, a open-source tool used to extract metadata from files.
+* [metagoofil](https://github.com/laramies/metagoofil) - Metadata harvester
+* [Google Hacking Database](https://www.exploit-db.com/google-hacking-database/) - a database of Google dorks; can be used for recon
+* [Google-Dorks](https://github.com/arimogi/Google-Dorks) - Common google dorks and others you prolly don't know
+* [GooDork](https://github.com/k3170makan/GooDork) - Command line go0gle dorking tool
+* [dork-cli](https://github.com/jgor/dork-cli) - Command-line Google dork tool.
+* [Shodan](https://www.shodan.io/) - Shodan is the world's first search engine for Internet-connected devices
+* [recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng) - A full-featured Web Reconnaissance framework written in Python
+* [github-dorks](https://github.com/techgaun/github-dorks) - CLI tool to scan github repos/organizations for potential sensitive information leak
+* [vcsmap](https://github.com/melvinsh/vcsmap) - A plugin-based tool to scan public version control systems for sensitive information
+* [Spiderfoot](http://www.spiderfoot.net/) - multi-source OSINT automation tool with a Web UI and report visualizations
+* [DataSploit](https://github.com/upgoingstar/datasploit) - OSINT visualizer utilizing Shodan, Censys, Clearbit, EmailHunter, FullContact, and Zoomeye behind the scenes.
+* [snitch](https://github.com/Smaash/snitch) - information gathering via dorks
+* [Geotweet_GUI](https://github.com/Pinperepette/Geotweet_GUI) - Track geographical locations of tweets and then export to google maps.
 
 Contribution
 ================
