@@ -184,6 +184,7 @@ OSINT
 * [DataSploit](https://github.com/upgoingstar/datasploit) - OSINT visualizer utilizing Shodan, Censys, Clearbit, EmailHunter, FullContact, and Zoomeye behind the scenes.
 * [snitch](https://github.com/Smaash/snitch) - information gathering via dorks
 * [Geotweet_GUI](https://github.com/Pinperepette/Geotweet_GUI) - Track geographical locations of tweets and then export to google maps.
+* [Digital Footprint Check](https://www.cyberoneintel.com/digitalfootprint) - Search the internet including social media accounts, employment history, dating profiles, gaming profiles, dark web credential breaches, indexed search engine occurrences, and more.
 
 Contribution
 ================
