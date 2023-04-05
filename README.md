@@ -111,6 +111,8 @@ Social Engineering Books
 
 - [Learn Social Engineering - Erdal Ozkaya](https://www.packtpub.com/networking-and-servers/learn-social-engineering)
 
+- [Practical Social Engineering: A Primer for the Ethical Hacker - Joe Gray](https://www.amazon.com/Practical-Social-Engineering-Joe-Gray/dp/171850098X)
+
 
 COMMUNITIES
 =================
