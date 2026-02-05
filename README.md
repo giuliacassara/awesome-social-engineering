@@ -131,6 +131,7 @@ Tools
 #### Useful tools
 * [Tor](https://www.torproject.org/) - The free software for enabling onion routing online anonymity
 * [SET](https://github.com/trustedsec/social-engineer-toolkit) - The Social-Engineer Toolkit from TrustedSec
+* [Seduction (Baudrillard Suite)](https://github.com/bad-antics/baudrillard-suite/tree/main/seduction) - Social engineering toolkit with pretexting, profiling, and influence techniques. Part of a security research framework.
 
 #### Phishing tools
 * [Gophish](https://getgophish.com/) - Open-Source Phishing Framework
