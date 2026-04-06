@@ -110,6 +110,7 @@ Social Engineering Books
 - [The Social Engineer's Playbook: A Practical Guide to Pretexting - Jeremiah Talamantes](https://www.amazon.com/Social-Engineers-Playbook-Practical-Pretexting/dp/0692306617/ref=sr_1_1?s=books&ie=UTF8&qid=1494770673&sr=1-1&keywords=The+Social+Engineer%27s+Playbook%3A+A+Practical+Guide+to+Pretexting)
 
 - [Learn Social Engineering - Erdal Ozkaya](https://www.packtpub.com/networking-and-servers/learn-social-engineering)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts including social engineering awareness, phishing detection, and security training agents. MIT licensed.
 
 
 COMMUNITIES
