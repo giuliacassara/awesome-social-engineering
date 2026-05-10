@@ -202,6 +202,7 @@ OSINT
 * [DataSploit](https://github.com/upgoingstar/datasploit) - OSINT visualizer utilizing Shodan, Censys, Clearbit, EmailHunter, FullContact, and Zoomeye behind the scenes.
 * [snitch](https://github.com/Smaash/snitch) - information gathering via dorks
 * [Geotweet_GUI](https://github.com/Pinperepette/Geotweet_GUI) - Track geographical locations of tweets and then export to google maps.
+* [ContrastAPI](https://contrastcyber.com) - Cybersecurity OSINT API with 49 tools accessible via REST or MCP. Useful for SE recon: username_lookup across 15+ social platforms, email_verify (syntax + MX + disposable + role-account + free-provider), phone_lookup (country/region/line type), domain_report (WHOIS/SSL/DNS/threat), brand-asset scraper, and SEO audit. Anonymous + Pro tier (API key).
 
 Contribution
 ================
