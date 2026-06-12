@@ -125,6 +125,8 @@ Documentation
 
 * [Layer 8 conference and podcast](https://layer8conference.com/) - Conference and podcast that is focused on OSINT and Social Engineering.
 
+* [Romance Scam Statistics — open dataset](https://github.com/lovevalentin-droid/romance-scam-statistics) - Verified, source-attributed statistics on romance scams (FBI IC3, FTC, City of London Police, GASA, Chainalysis), 2024-2026. Romance scams are social engineering applied at scale; machine-readable JSON with exact citations.
+
 Tools
 =================
 
