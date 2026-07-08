@@ -45,6 +45,13 @@ Capture the Flag
 #### Social-Engineer.com - The SECTF, DEFCON
 - [Social-Engineer.com - DEFCON SECTF](https://www.social-engineer.org/sevillage-def-con/the-sectf/)
 
+Psychology Resources
+=================
+
+#### Online Tools
+
+- [Psychology Laws Awesome](https://github.com/daligao/psychology-laws-awesome) - Interactive quiz on 40 psychology laws and cognitive biases (Cialdini's Influence principles, Confirmation Bias, Authority Bias, Social Proof, Reciprocity, etc.). Practice recognizing manipulation and persuasion patterns through 320+ real-world scenarios.
+
 Psychology Books
 =================
 Most of these books covers the basics of psychology useful for a social engineer.
