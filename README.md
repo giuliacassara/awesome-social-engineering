@@ -189,6 +189,7 @@ OSINT
 * [theHarvester](https://github.com/laramies/theHarvester) - E-mail, subdomain and people names harvester
 * [creepy](https://github.com/ilektrojohn/creepy) - A geolocation OSINT tool
 * [exiftool.rb](https://github.com/mceachen/exiftool.rb) - A ruby wrapper of the exiftool, a open-source tool used to extract metadata from files.
+* [Metadata Remover Viewer](https://metadataremover.ai/metadata-viewer) - Browser-local EXIF/IPTC/XMP inspection; corroborate important findings with a second tool.
 * [metagoofil](https://github.com/laramies/metagoofil) - Metadata harvester
 * [Google Hacking Database](https://www.exploit-db.com/google-hacking-database/) - a database of Google dorks; can be used for recon
 * [Google-Dorks](https://github.com/arimogi/Google-Dorks) - Common google dorks and others you prolly don't know
