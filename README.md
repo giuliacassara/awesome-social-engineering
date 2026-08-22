@@ -125,6 +125,8 @@ Documentation
 
 * [Layer 8 conference and podcast](https://layer8conference.com/) - Conference and podcast that is focused on OSINT and Social Engineering.
 
+* [MindDividend Shield](https://alphaengineerai.com/global-online-scam-checker.html) - Privacy-first, multilingual first checks for social-engineering scam messages and links, with recovery and official reporting guidance.
+
 Tools
 =================
 
