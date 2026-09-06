@@ -125,6 +125,8 @@ Documentation
 
 * [Layer 8 conference and podcast](https://layer8conference.com/) - Conference and podcast that is focused on OSINT and Social Engineering.
 
+* [RansomLeak Social Engineering Training](https://ransomleak.com/threats/social-engineering/) - Interactive 3D simulations of phishing, vishing, smishing, deepfake, and pretexting attacks for employee awareness programs.
+
 Tools
 =================
 
