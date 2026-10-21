@@ -163,6 +163,7 @@ Miscellaneous
 * [Social Engineering: Compromising Users with an Office Document](http://resources.infosecinstitute.com/social-engineering-compromising-users-using-office-document/) - Infosec Institute
 * [The Persuasion Reading List](http://blog.dilbert.com/post/129784168866/the-persuasion-reading-list) - Scott Adams' Blog
 * [How I Socially Engineer Myself Into High Security Facilities](https://motherboard.vice.com/en_us/article/qv34zb/how-i-socially-engineer-myself-into-high-security-facilities) - Sophie Daniel
+* [You Got a Take-Home Test From a Recruiter: 5 Minutes Before npm install](https://dev.to/cryptostrapon/you-got-a-take-home-test-from-a-recruiter-you-have-5-minutes-before-npm-install-1cei) - DEV Community
 
 ### Movies
 * [Tiger Team (TV series)](https://en.wikipedia.org/wiki/Tiger_Team_)
